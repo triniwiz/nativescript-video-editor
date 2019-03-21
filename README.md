@@ -13,8 +13,9 @@
 [twitter-image]:https://img.shields.io/twitter/follow/triniwiz.svg?style=social&label=Follow%20me
 [twitter-url]:https://twitter.com/triniwiz
 
-## (Optional) Prerequisites / Requirements
+## Prerequisites / Requirements
 
+**Note Android min-sdk is 18**
 
 ## Installation
 
