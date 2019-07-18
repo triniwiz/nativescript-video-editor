@@ -558,6 +558,7 @@ const getVideoInfo = (id: string, source: string) => {
 
         const response = {
             width: videoWidth,
+            height: videoHeight,
             orientation,
             duration,
             size,
